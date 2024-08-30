@@ -31,15 +31,18 @@ Explored nuanced insights based on the transformed dataset.
 📈 Delhi Occupancy vs. Revenue: Delhi boasts high occupancy but the least realized revenue.
 💵 Revenue Leader: Mumbai emerges as the revenue frontrunner.
 📊 Monthly Revenue Peak: Total revenue per month peaks in July.
+
 5. 🚀 Business Insights:
 
 Bangalore: Witnesses a noticeable dip in average successful bookings compared to Mumbai.
 💡 Strategic Insights: Revenue from cancellations for AtliQ Industries hotels.
 🌟 AtliQ Seasons: Excels in low cancellation rates, attributed to competitive pricing and strategic locations.
+
 6. 🌟 Service Quality and Ratings:
 
 🌐 Consistency: Average ratings remain consistent across all cities.
 🌟 Service Improvement: None of the ratings exceed ≥4, emphasizing the necessity for service quality enhancement.
+
 7. 🤔 Booking Analysis:
 
 🌐 Payment Method: 40.9% of bookings originate from the 'others' payment method; strategic analysis is recommended for market capture.
